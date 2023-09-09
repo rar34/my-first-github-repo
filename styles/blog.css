@@ -1,0 +1,15 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: fit-content;
+    width: fit-content;
+}
+.login{
+    background-color: aquamarine;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    margin: 10px;
+    
+}
